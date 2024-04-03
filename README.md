@@ -3,7 +3,7 @@
 
 # JavaScript Client Side Form Validation
 
-Hello 👋, I'm `Abhinav Deshmane` at this repository i will be build `Client Side Form Validation Using JavaScript`. Specially i will be build `Username, Email & Password` validating at registration form.
+Hello 👋, I'm `Abhinav Deshmane` at this repository i have created a `Client Side Form Validation Using JavaScript`. using `Username, Email & Password` validating at registration form.
 
 |  #  | Projects                                                                                                  | Live Preview                                                                                |
 | :-: | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
