@@ -1,4 +1,4 @@
-<!-- social media connecting shield -->
+
 
 
 # JavaScript Client Side Form Validation
@@ -11,4 +11,4 @@ Hello 👋, I'm `Abhinav Deshmane` at this repository i will be build `Client Si
 
 
 
-                                  </> HAPPY PROGRAMMING & DEVELOPING 👩‍💻 </>
+                                  </> Thankyou </>
